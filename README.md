@@ -60,6 +60,6 @@ Keep your world set to Survival with Allow Cheats: OFF. Even if you're the host,
 Now you can enjoy custom addons without losing your achievements. Share this guide with others who might be struggling – together we can keep our worlds fun and rewarding.
 
 
-Main contributor: **NeoPhinix**
+Main contributor: @BluePhinix
 
-Revised by: **The-Venlark**
+Revised by: @TheVenlark
